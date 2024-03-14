@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659190874430",
+    "project_id": "flutter-menu322",
+    "storage_bucket": "flutter-menu322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659190874430:android:f51372c963780d545a6c6f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_menu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MNLMhkL197kQIEQsmvqdgIWE08apPJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
